@@ -8,6 +8,7 @@
   "bin": [
     "bin\\mvn.bat"
   ],
+  "env_add_path": "bin",
   "env_set": {
     "M2_HOME": "$dir"
   }
